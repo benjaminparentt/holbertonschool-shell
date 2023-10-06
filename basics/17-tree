@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir cd welcome/to/holberton
+mkdir .  welcome/to/holberton
