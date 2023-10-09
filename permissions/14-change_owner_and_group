@@ -1,4 +1,4 @@
 #!/bin/bash
 chown -R 
-vincent=staff .
+vincent:staff .
 
