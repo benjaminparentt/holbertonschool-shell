@@ -1,3 +1,4 @@
 #!/bin/bash
-chown -R vincent staff .
+chown -R 
+vincent=staff .
 
