@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $BEST | echo $School
+BEST = 'School'
